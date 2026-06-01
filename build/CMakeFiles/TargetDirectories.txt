@@ -1,0 +1,3 @@
+C:/Users/Panha/OneDrive/Documents/Learn c++/CMake/build/CMakeFiles/learn_cmake.dir
+C:/Users/Panha/OneDrive/Documents/Learn c++/CMake/build/CMakeFiles/edit_cache.dir
+C:/Users/Panha/OneDrive/Documents/Learn c++/CMake/build/CMakeFiles/rebuild_cache.dir
